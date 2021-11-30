@@ -12,10 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        print("Another print statement")
+       
     }
-
+    
+    func test() {
+        print("Hello")
+    }
 
 }
 
